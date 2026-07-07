@@ -1,0 +1,27 @@
+{
+  "identifier": "1",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "1000001",
+      "localizations": [
+        {
+          "description": "Custom replacement reminders and multi-item tracking",
+          "displayName": "Pillowcheck Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.pillowreminder.pro",
+      "referenceName": "Pillowcheck Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
